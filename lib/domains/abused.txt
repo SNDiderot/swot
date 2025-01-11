@@ -122,7 +122,6 @@ buc.blinn.edu
 buc.edu.eg
 byu.net
 c3chuvanan.edu.vn
-caa.columbia.edu
 cacc.edu
 caccmail.cacc.edu
 calamba.sti.edu.ph
@@ -228,7 +227,6 @@ eap.gr
 eastafricauniversity.net
 ebimal.edu.ar
 eco.maranatha.edu
-ecu.edu.eg
 edu.arh.bg.ac.rs
 edu.azores.gov.pt
 edu.cdsj6.edu.mo
@@ -319,7 +317,6 @@ g.hongik.ac.kr
 g.tu.ac.kr
 gcsurat.gujgov.edu.in
 gemselearning.com
-georgetown.edu
 ghanacu.org
 ghazanthemprep.org
 giant.cos.edu
@@ -331,7 +328,7 @@ green.ac.bd
 gtc.edu
 gulfuniversity.edu.bh
 gumed.edu.pl
-guru.sd.belajar.id
+belajar.id
 hacc.edu
 haiphong.itrithuc.vn
 hanoi.itrithuc.vn
@@ -462,7 +459,6 @@ lumstu.com
 mabankisd.net
 mackenzista.com.br
 madina.ac.ma
-madisoncollege.edu
 mahasiswa.itb.ac.id
 mahidol.ac.th
 mail.0du.win
@@ -501,7 +497,6 @@ mancheopenschool.fr
 maranatha.edu
 maricopa.edu
 martinmethodist.edu
-marun.edu.tr
 mas.bg.ac.rs
 matc.edu
 mbz.ens.sch.ae
@@ -633,7 +628,6 @@ nwacc.edu
 nwfsc.edu
 nwosu.edu
 o.cnu.ac.kr
-o365.msu.ac.th
 o365.rmutp.ac.th
 o365.tu.ac.kr
 o365.u-szeged.hu
@@ -658,7 +652,6 @@ ogr.cbu.edu.tr
 ogr.cu.edu.tr
 ogr.deu.edu.tr
 ogr.duzce.edu.tr
-iu.edu.tr
 ogr.kent.edu.tr
 ogr.ktu.edu.tr
 ogr.sakarya.edu.tr
@@ -677,7 +670,6 @@ oshs.edu.ba
 otp39.ru
 owls.williamwoods.edu
 paaet.edu.kw
-pace.edu
 palermo.edu
 palloimre.ro
 palomar.edu
@@ -962,7 +954,7 @@ student.wallacestate.edu
 student.whatcom.edu
 studenti.poliba.it
 students.cccti.edu
-students.clark.edu
+clark.edu
 students.fui.edu.pk
 students.gov.ge
 students.highline.edu
@@ -1385,7 +1377,7 @@ daegu.ac.kr
 alumnos.cecyteg.edu.mx
 koreatech.ac.kr
 usal.es
-u.tsukuba.ac.jp
+tsukuba.ac.jp
 unsaac.edu.pe
 yrdsb.ca
 estudante.ifb.edu.br
@@ -1416,9 +1408,30 @@ virtual.ceipa.edu.co
 binus.ac.id
 utp.edu.pe
 ms.upla.edu.pe
-alumnos.upm.es
+upm.es
 udn.vn
 sgu.edu.vn
 rupp.edu.kh
 philadelphia.edu.jo
 sempreuninassau.com.br
+pup.edu.ph
+upes.ac.in
+eelu.edu.eg
+kookmin.kr
+kdis.ac.kr
+kfs.edu.eg
+iuh.edu.vn
+nu.edu.eg
+bau.edu.jo
+knu.ac.kr
+ump.edu.vn
+kimpo.ac.kr
+insat.u-carthage.tn
+issatm.u-carthage.tn
+utc.edu.vn
+stu.kmu.edu.tr
+kmu.edu.tr
+psu.edu
+bu.edu.eg
+sookmyung.ac.kr
+hawkeyecollege.edu
